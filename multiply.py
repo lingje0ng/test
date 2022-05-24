@@ -8,5 +8,5 @@ for i in range(1,y+1):
     if num != x**y:
         print("{}*".format(x),end='')
     elif num == x**y:
-        print("{} = {}".format(x,x**y))3
+        print("{} = {}".format(x,x**y))
         
